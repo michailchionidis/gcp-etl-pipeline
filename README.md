@@ -60,5 +60,5 @@ This project is provided by [DataProjects.io](https://dataprojects.io), a platfo
 [You can find the complete project along with detailed instructions here!](https://dataprojectsio.notion.site/1-Real-World-Portfolio-Project-Build-an-End-to-End-ETL-Data-Pipeline-on-Google-Cloud-Platform-49e9b2abeec24dc4b98e9c68bfc7d503)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
 
