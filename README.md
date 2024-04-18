@@ -35,10 +35,16 @@ This repository showcases my implementation of an end-to-end ETL pipeline, lever
 1. **Clone the repository**
 ```git clone https://github.com/yourgithubusername/weather-data-etl-pipeline.git```
 
-2. **Install required Python libraries**
+2. **Create a virtual environment**
+```python3 -m venv venv```
+
+3. **Activate your virtual environment**
+```. venv/bin/activate```
+
+4. **Install required Python libraries**
 ```pip install -r requirements.txt```
 
-3. **Set up `settings.py`**
+5. **Set up `settings.py`**
 - Set your OpenWeather API Key.
 - Configure service account files for Cloud Storage and BigQuery access. Instructions for setting up:
   - [Cloud Storage Service Account](https://dataprojectsio.notion.site/8-Mini-Course-Cloud-Storage-Fundamentals-504d51bd3fb940e2ba679a702a6a3809)
