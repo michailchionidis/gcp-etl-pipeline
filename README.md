@@ -63,7 +63,7 @@ Contributions to this project are welcome! Please fork this repository and submi
 ## Acknowledgments
 This project is provided by [DataProjects.io](https://dataprojects.io), a platform that helps data professionals build a portfolio of real-world, end-to-end projects on the cloud.
 
-[You can find the complete project along with detailed instructions here!](https://dataprojectsio.notion.site/1-Real-World-Portfolio-Project-Build-an-End-to-End-ETL-Data-Pipeline-on-Google-Cloud-Platform-49e9b2abeec24dc4b98e9c68bfc7d503)
+[You can find the complete project along with detailed instructions here!]()
 
 ## License
 This project is licensed under the Mozilla Public License 2.0 - see the [LICENSE](LICENSE) file for details.
